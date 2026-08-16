@@ -1,9 +1,9 @@
-# 🚀 Prathmesh M
+# 🚀 Rakesh T
 
-**Python Developer | AI/ML Engineer | Full Stack Developer**  
+**Java Developer | AI/ML Engineer | Full Stack Developer**  
 📍 Chennai, TN  
-📧 prathmeshmahesh@gmail.com  
-📱 +91 9025231292  
+📧 rakesh18tamil@gmail.com
+📱 +91 8270413215  
 🔗 [linkedin.com/in/prathmesh-m-02789b265](https://linkedin.com/in/prathmesh-m-02789b265)  
 🐙 [github.com/Prath2244](https://github.com/Prath2244)
 
@@ -26,7 +26,7 @@ Proven ability to ship end-to-end solutions through internships and independent 
 ## 💻 Tech Stack
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### AI/ML & Data Science
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
